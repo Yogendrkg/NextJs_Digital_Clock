@@ -56,7 +56,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>My Yogi App</title>
+        <title>Digi Clock</title>
       </Head>
 
 
